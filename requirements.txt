@@ -1,0 +1,10 @@
+streamlit
+gTTS
+sounddevice
+soundfile
+numpy
+librosa
+tensorflow
+google-generativeai
+nltk
+pydub

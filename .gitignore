@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore dataset folder
+torgo_data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
